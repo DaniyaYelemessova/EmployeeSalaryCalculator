@@ -17,5 +17,6 @@ This is a simple Employee Management System written in Python. It allows the use
 
  - Deleting an employee
 
-![employees.png](..%2F..%2F..%2FDesktop%2FadvGame%2Femployees.png)
+![](C:\Users\daniy\Desktop\advGame\employees.png)
+
 
