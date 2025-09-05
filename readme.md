@@ -16,3 +16,6 @@ This is a simple Employee Management System written in Python. It allows the use
  - Calculating average, highest, and lowest salary
 
  - Deleting an employee
+
+![employees.png](..%2F..%2F..%2FDesktop%2FadvGame%2Femployees.png)
+
