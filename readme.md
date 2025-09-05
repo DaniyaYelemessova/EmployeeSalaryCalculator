@@ -17,6 +17,10 @@ This is a simple Employee Management System written in Python. It allows the use
 
  - Deleting an employee
 
-![](C:\Users\daniy\Desktop\advGame\employees.png)
+Technologies used:
+
+- Python
+- CSV
+- Command-Line Interface
 
 
